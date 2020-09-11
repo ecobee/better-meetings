@@ -133,7 +133,7 @@
 		"concurrently": "^4.1.1",
 		"dotenv": "^8.0.0",
 		"graphql-toolkit": "^0.5.2",
-		"node-fetch": "^2.6.0",
+		"node-fetch": "^2.6.1",
 		"now": "^15.8.7",
 		"serve": "^11.1.0",
 		"webpack-dev-server": "^3.7.2"
